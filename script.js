@@ -43,11 +43,11 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "Không Bao Giờ",
-    "Anh biết lỗi rồi ạa",
-    "Mong bé tha lỗi choo anhh :((",
-    "Anhh saii rồi , anhh đáng trách ạ, Tuyết tha cho anh nha",
-    "Tuyếttt đừng giận anhh nữa nhóoo",
-    "Anhhh yêu Tuyếtt nhất trần đời này luôn đó",
+    "Chiến biết lỗi rồi màaaa",
+    "Mong Tuyết tha lỗi choo anhh :((",
+    "Anhh saii rồi , anhh đáng trách ạ, Tuyết tha cho anh nhaaaa",
+    "Tuyếttt đừng giận anhh nữa nhóoo, anh buồn lắm đó",
+    "Anhhh yêu Tuyếtt nhất trần đời này luôn đó, thiếu Tuyết anh sống không có nổi!!!",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
